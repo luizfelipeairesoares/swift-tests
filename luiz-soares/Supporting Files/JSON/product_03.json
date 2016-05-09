@@ -1,0 +1,64 @@
+{
+discount_percentage: 0,
+condition: "used",
+photos: [
+"https://res-1.cloudinary.com/enjoei/image/upload/nbhju94cliazi0hnqnr1.jpg",
+"https://res-1.cloudinary.com/enjoei/image/upload/hetn8tmd4t4b9hiwrec6.jpg",
+"https://res-1.cloudinary.com/enjoei/image/upload/oxd9ycy22icwz4kuknwb.jpg",
+"https://res-1.cloudinary.com/enjoei/image/upload/tmm7trvmhpef2dwt1df3.jpg"
+],
+id: 1544045,
+original_price: 450,
+price: 450,
+size: null,
+shipping_type: "por peso",
+title: "SEIKO",
+content: "Relógio SEIKO Chromograph SQ 100 - Prata Em excelente estado de conservação.",
+brand: "Seiko",
+likes_count: 78,
+user_title: "lojinha da giovana",
+user_city: "brasília",
+user_state: "df",
+related_products: [
+{
+discount_percentage: 0,
+id: 2282559,
+original_price: 38,
+price: 38,
+title: "Pulseira de Couro",
+content: "Pulseira Tamanho Único 40cm, veste do pulsos de 17 à 20 cm (P ao GG) Pulseira unissex de couro com fecho de fivela, regulável ao pulso.",
+likes_count: 352,
+default_photo: "https://res-1.cloudinary.com/enjoei/image/upload/ysnz4wqvtm5dnxhczqgx.jpg"
+},
+{
+discount_percentage: 0,
+id: 1544524,
+original_price: 3800,
+price: 3800,
+title: "Rado Ceramica Mid Watch",
+content: "Relógio igual novo, sem detalhes. Único dono. Certificado de garantia e autenticidade. Caixa com acabamento descolado devido ao desgaste do tempo. Pulseira em cerâmica e cristal de safira. Pulso: Máximo 18cm. Marca: Rado Origem: Suíça Ano: 1995 Referência: R21348152 Os relógios da marca RADO são uma exceção no universo dos ponteiros suíços. Enquanto a relojoaria suíça se caracteriza por relógios imponentes, dotados de complexos movimentos automáticos, os relógios RADO são exatamente o oposto: sem complicações, extremamente básicos nas funcionalidades e simples movimentos de quartzo. Mas, ao mesmo tempo, são também donos de um design belo e poderoso. A história começou no ano de 1917 quando os irmãos Schlup - Fritz, Ernst e Werner - fundaram na cidade suíça de Lengnau a Schlup & Co., empresa especializada na criação de movimentos e de componentes para relógios para outras fabricantes. Atualmente a RADO possui aproximadamente 10 coleções, sendo o traço comum à maioria delas o uso da cor preta que, aliada à cerâmica, fornece um brilho cativante e belo. A maioria dos modelos se baseia em movimentos de quartzo, mas existem também opções automáticas, como o Rado Original, que tem um design mais tradicional. De aspecto esportivo, vem equipado com cronógrafo e pulseira em aço. Os relógios da marca suíça, de acordo com o modelo, possuem preços que variam de US$ 400 a US$ 28.000. Os slogans: Shaping the future. Time changes everything. Except a Rado. Rado. A different world. Dados corporativos ● Origem: Suíça ● Fundação: 1917 ● Fundador: Fritz, Ernst e Werner Schlup ● Sede mundial: Lengnau, Suíça ● Proprietário da marca: The Swatch Group AG ● Capital aberto: Não (subsidiária) ● Chairman: Nicolas Hayek ● CEO & Presidente: Nicolas Hayek Jr. ● Presença global: 110 países ● Presença no Brasil: Sim ● Funcionários: 500 ● Segmento: Relojoaria ● Principais produtos: Relógios ● Ícones: Os materiais utilizados na fabricação de seus relógios ● Slogan: Shaping the future. A marca no mundo Atualmente os relógios da marca RADO são comercializados em mais de 8.000 mil pontos de venda em 110 países do mundo, contando com 400 centros oficiais de serviços. A produção anual da marca supera 500.000 relógios. ● Durante toda sua história a marca RADO já conquistou mais de 20 prêmios de design, se tornando uma excelência na fabricação e criação de relógios.",
+likes_count: 114,
+default_photo: "https://res-1.cloudinary.com/enjoei/image/upload/zwjgmwz7ur4d1rigvgnh.jpg"
+},
+{
+discount_percentage: 25,
+id: 14564453,
+original_price: 200,
+price: 150,
+title: "Pulsando",
+content: "Lindo relógio, com pulseira de aço inoxidável. Para maiores informações basta perguntar...",
+likes_count: 12,
+default_photo: "https://res-1.cloudinary.com/enjoei/image/upload/w90n4slobkmjkccrnnth.jpg"
+},
+{
+discount_percentage: 0,
+id: 14267179,
+original_price: 600,
+price: 600,
+title: "Relógio ",
+content: "Relógio Lacoste, preto, para homens com pulso menor ou que gostam de relógios pequenos. Pulseira de plástico. Adquirido no Brasil, loja Vivara.",
+likes_count: 18,
+default_photo: "https://res-1.cloudinary.com/enjoei/image/upload/mzf9ckochctq094rb9be.jpg"
+}
+]
+}
